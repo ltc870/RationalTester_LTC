@@ -5,7 +5,7 @@ public class Application {
 		// TODO Auto-generated method stub
 		
 		 RationalNumber rationalNumber1 = new RationalNumber(10, 2);
-		 RationalNumber rationalNumber2 = new RationalNumber(10, 5);
+		 RationalNumber rationalNumber2 = new RationalNumber(10, 1);
 		 
 		 int answer = rationalNumber1.compareTo(rationalNumber2);
 		 
